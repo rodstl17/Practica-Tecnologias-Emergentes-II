@@ -1,7 +1,6 @@
 # Estudiante: Rodrigo Colque Poma 
 # Paralelo: 7 C 
 # Materia: Tecnologias Emergentes II
-# Variables en Python
 course = "Python para iniciantes"
 
 print(course.upper())   # Convierte a mayúsculas
